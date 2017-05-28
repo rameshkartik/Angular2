@@ -1,0 +1,21 @@
+﻿<div>
+    <!--Employee Name Object to UI :- <input [ngModel]="EmployeeCurrentObj.EmployeeName " id="Text1" type="text" /> <br />
+    Employee Name UI to Object :- <input (ngModel)="EmployeeCurrentObj.EmployeeName " id="Text1" type="text" /> <br />-->
+    Employee Name :- <input [(ngModel)]="EmployeeCurrentObj.EmployeeName " id="Text1" type="text" /> <br />
+    Employee Code :- <input [(ngModel)]="EmployeeCurrentObj.EmployeeCode" id="Text1" type="text" /> <br />
+    Employee Salary :- <input [(ngModel)]="EmployeeCurrentObj.EmployeeSalary" id="Text1" type="number" /> <br />
+
+    <input id="Button1" type="button" value="Save" (click)="Add()" />
+    <input id="Button1" type="button" value="Update" (click)="Update()" />
+    <input id="Button1" type="button" value="Cancel" (click)="Clear()" />
+
+    {{EmployeeCurrentObj.EmployeeName}} <br />
+    {{EmployeeCurrentObj.EmployeeCode}} <br />
+    {{EmployeeCurrentObj.EmployeeSalary}} <br />
+
+    <grid-ui [grid-Data]="Employees"
+             [grid-entity]="'Employee'" 
+             (grid-output)="Select($event)">
+
+    </grid-ui>
+</div>

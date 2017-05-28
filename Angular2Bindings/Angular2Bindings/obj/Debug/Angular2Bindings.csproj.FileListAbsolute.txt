@@ -1,0 +1,65 @@
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\ApplicationInsights.config
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\csc.exe
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\System.Collections.Immutable.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\System.Reflection.Metadata.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\vbc.exe
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\VBCSCompiler.exe
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\roslyn\VBCSCompiler.exe.config
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.dll.config
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.pdb
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.DependencyCollector.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Web.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.WindowsServer.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.ApplicationInsights.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.DependencyCollector.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Web.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.WindowsServer.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.ApplicationInsights.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SourceCode\Angular2Bindings\Angular2Bindings\obj\Debug\Angular2Bindings.dll
+E:\SourceCode\Angular2Bindings\Angular2Bindings\obj\Debug\Angular2Bindings.pdb
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\ApplicationInsights.config
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\csc.exe
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\System.Collections.Immutable.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\System.Reflection.Metadata.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\vbc.exe
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\VBCSCompiler.exe
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\roslyn\VBCSCompiler.exe.config
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.dll.config
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Angular2Bindings.pdb
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Agent.Intercept.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.DependencyCollector.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Web.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.WindowsServer.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.ApplicationInsights.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.DependencyCollector.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.Web.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.AI.WindowsServer.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.ApplicationInsights.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\obj\Debug\Angular2Bindings.dll
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\obj\Debug\Angular2Bindings.pdb
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\obj\Debug\Angular2Bindings.csprojResolveAssemblyReference.cache

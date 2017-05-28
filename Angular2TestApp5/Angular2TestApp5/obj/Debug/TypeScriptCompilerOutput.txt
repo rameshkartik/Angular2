@@ -1,0 +1,8 @@
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Model\Employee.js
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Model\Employee.js.map
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\EmployeeComponent.js
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\EmployeeComponent.js.map
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\EmployeeModuleLibrary.js
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\EmployeeModuleLibrary.js.map
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\Startup.js
+G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2TestApp5\Angular2TestApp5\Binder\Startup.js.map
