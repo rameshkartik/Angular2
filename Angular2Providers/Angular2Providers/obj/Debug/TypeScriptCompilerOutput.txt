@@ -1,0 +1,12 @@
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Model\Employee.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Model\Employee.js.map
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Service\FactoryEmployee.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Service\FactoryEmployee.js.map
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\EmployeeComponent.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\EmployeeComponent.js.map
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\GridComponent.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\GridComponent.js.map
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\EmployeeModuleLibrary.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\EmployeeModuleLibrary.js.map
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\Startup.js
+G:\Git Base\Angular2\Angular2Providers\Angular2Providers\Binder\Startup.js.map

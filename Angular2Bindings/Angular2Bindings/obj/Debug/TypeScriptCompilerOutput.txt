@@ -1,10 +1,10 @@
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Model\Employee.js
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Model\Employee.js.map
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\EmployeeComponent.js
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\EmployeeComponent.js.map
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\GridComponent.js
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\GridComponent.js.map
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\EmployeeModuleLibrary.js
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\EmployeeModuleLibrary.js.map
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\Startup.js
-G:\RameshKartik\Tech\GIT Base\Angular 2\Angular2Bindings\Angular2Bindings\Binder\Startup.js.map
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Model\Employee.js
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Model\Employee.js.map
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\EmployeeComponent.js
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\EmployeeComponent.js.map
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\GridComponent.js
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\GridComponent.js.map
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\EmployeeModuleLibrary.js
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\EmployeeModuleLibrary.js.map
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\Startup.js
+G:\Git Base\Angular2\Angular2Bindings\Angular2Bindings\Binder\Startup.js.map
