@@ -13,6 +13,8 @@ var EmployeeComponent_1 = require("../Binder/EmployeeComponent");
 var GridComponent_1 = require("./GridComponent");
 var RandomComponent_1 = require("./RandomComponent");
 var DateComponent_1 = require("./DateComponent");
+var ContractEmployeeComponent_1 = require("./ContractEmployeeComponent");
+var TimeZoneComponent_1 = require("./TimeZoneComponent");
 //const randomFactory = () => { return Math.random(); };
 var EmployeeModuleLibrary = (function () {
     function EmployeeModuleLibrary() {
@@ -22,9 +24,11 @@ var EmployeeModuleLibrary = (function () {
 EmployeeModuleLibrary = __decorate([
     core_1.NgModule({
         imports: [platform_browser_1.BrowserModule, forms_1.FormsModule],
-        declarations: [EmployeeComponent_1.EmployeeComponent, GridComponent_1.GridComponent, RandomComponent_1.RandomComponent, DateComponent_1.DateComponent],
+        declarations: [EmployeeComponent_1.EmployeeComponent, GridComponent_1.GridComponent,
+            RandomComponent_1.RandomComponent, DateComponent_1.DateComponent, ContractEmployeeComponent_1.ContractEmployeeComponent, TimeZoneComponent_1.TimeZoneComponent],
         providers: [
             { provide: 'Random', useValue: Math.random() },
+            { provide: 'apiData', useValue: 'http://api.timezonedb.com/v2/list-time-zone?key=F1GX4UOT5XZR&format=json&country=IN' }
         ],
         bootstrap: [EmployeeComponent_1.EmployeeComponent]
     })

@@ -31,3 +31,4 @@ G:\Git Base\Angular2\Angular2DI\Angular2DI\bin\Microsoft.CodeDom.Providers.DotNe
 G:\Git Base\Angular2\Angular2DI\Angular2DI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 G:\Git Base\Angular2\Angular2DI\Angular2DI\obj\Debug\Angular2Providers.dll
 G:\Git Base\Angular2\Angular2DI\Angular2DI\obj\Debug\Angular2Providers.pdb
+G:\Git Base\Angular2\Angular2DI\Angular2DI\obj\Debug\Angular2DI.csprojResolveAssemblyReference.cache

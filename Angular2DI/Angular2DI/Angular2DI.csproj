@@ -88,13 +88,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Binder\ContractEmployeeComponent.ts" />
     <TypeScriptCompile Include="Binder\DateComponent.ts" />
     <TypeScriptCompile Include="Binder\EmployeeComponent.ts" />
     <TypeScriptCompile Include="Binder\EmployeeModuleLibrary.ts" />
     <TypeScriptCompile Include="Binder\GridComponent.ts" />
     <TypeScriptCompile Include="Binder\RandomComponent.ts" />
     <TypeScriptCompile Include="Binder\Startup.ts" />
+    <TypeScriptCompile Include="Binder\TimeZoneComponent.ts" />
+    <TypeScriptCompile Include="Model\Allowance.ts" />
+    <TypeScriptCompile Include="Model\ContractEmployee.ts" />
     <TypeScriptCompile Include="Model\Employee.ts" />
+    <TypeScriptCompile Include="Model\PersonalDetails.ts" />
+    <TypeScriptCompile Include="Model\Salary.ts" />
     <TypeScriptCompile Include="Service\DateWidget.ts" />
     <TypeScriptCompile Include="Service\FactoryEmployee.ts" />
   </ItemGroup>

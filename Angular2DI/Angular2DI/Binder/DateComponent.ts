@@ -14,8 +14,6 @@ export class DateComponent {
 
     _dateWidget: DateWidget;
 
-
-
     
     constructor(private dateWidget: DateWidget) {
         this._dateWidget = dateWidget;
