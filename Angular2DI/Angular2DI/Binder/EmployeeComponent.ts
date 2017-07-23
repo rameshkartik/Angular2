@@ -1,6 +1,7 @@
 ﻿import { Component } from '@angular/core';
 import { Employee } from '../Model/Employee';
 import { FactoryEmployee } from '../Service/FactoryEmployee';
+
 @Component(
     {
         providers: [FactoryEmployee],
